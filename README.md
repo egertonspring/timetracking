@@ -1,4 +1,4 @@
-A little GUI tool written in python which can help you tracking your working time.
+A little GUI tool written in python which can help you track your working time.
 This version is optimized for Ubuntu 22.10 with a current python 3 version and a current tkinter version.
 
 Please install Tkinter for that:
